@@ -1,10 +1,6 @@
 ## jaredcroyle.com
 
-Personal site and portfolio for **Jared Croyle**, a machine‑learning–focused software engineer working on bioinformatics, simulation, and scientific computing.
-
 Built with [Gatsby](https://www.gatsbyjs.com/) and deployed via [Netlify](https://www.netlify.com/).
-
-![demo](https://raw.githubusercontent.com/jaredcroyle/jaredcroyle.com-v2/main/src/images/demo.png)
 
 ## Overview
 
@@ -47,5 +43,6 @@ I adapted the design, layout, and build setup for my own use, and customized:
 - Site content (jobs, projects, copy)
 - Styling/theme values
 - GraphQL queries and build configuration
+- Updated legacy code
 
 If you reuse significant portions of this code or design, please credit both Brittany’s original work and this repo.
