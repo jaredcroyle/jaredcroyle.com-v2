@@ -3,6 +3,9 @@
   "description": "JaredCroyle.comV2",
   "version": "1.0.0",
   "author": "Jared croyle <jcroyle@berkeley.edu>",
+  "engines": {
+    "node": ">=18"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jaredcroyle/jaredcroyle.com-v1"
