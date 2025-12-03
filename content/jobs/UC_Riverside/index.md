@@ -3,7 +3,7 @@ date: '2023-08-31'
 title: 'Bioinformatics Fellow'
 company: 'UC Riverside'
 location: 'Riverside, CA'
-range: 'February 2024 - September 2025'
+range: 'June 2023 - August 2023'
 url: 'https://lab.stajich.org'
 ---
 
