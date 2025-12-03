@@ -40,4 +40,4 @@ I adapted the design, layout, and build setup for my own use, updated legacy cod
 - Styling/theme values
 - GraphQL queries and build configuration
 
-If you reuse significant portions of this code or design, please credit both Brittany’s original work and this repo.
+If you reuse significant portions of this code or design, please credit both Brittany’s original work and this repo :)
