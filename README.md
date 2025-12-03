@@ -4,11 +4,7 @@ Built with [Gatsby](https://www.gatsbyjs.com/) and deployed via [Netlify](https:
 
 ## Overview
 
-This repo contains the source for my personal website at [jaredcroyle.com](https://jaredcroyle.com). It highlights:
-
-- **Bioinformatics & genomics**
-- **Simulation and time‑series modeling**
-- **ML/infra for scientific workflows**
+This repo contains the source for my personal website at [jaredcroyle.com](https://jaredcroyle.com)!
 
 Content is managed primarily via Markdown under the `content/` directory (jobs, projects, posts) and rendered with Gatsby.
 
