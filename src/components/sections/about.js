@@ -142,10 +142,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! My name is Jared and I enjoy building systems that help us make sense of complex
-              natural data. My path started in zoology, volunteering at zoos and aquariums before
-              becoming a veterinary assistant during college. Who knew a BASH terminal at a vet
-              clinic would be my gateway into programming?!
+              Hi! I enjoy building systems that help us make sense of complex natural data. My path
+              started in zoology, volunteering at zoos and aquariums before becoming a veterinary
+              assistant during college. Who knew a BASH terminal at a vet clinic would be my gateway
+              into programming?!
             </p>
 
             <p>
